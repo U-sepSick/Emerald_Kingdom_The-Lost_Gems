@@ -1,6 +1,5 @@
 # Proyecto Ejemplo
-
-![Banner del Proyecto](.git_images\Emerald Kingdom_ The Lost Gems.png)
+![Emerald Kingdom_ The Lost Gems](https://github.com/user-attachments/assets/4fe9e2eb-2cb1-443d-a2c3-59919a8ac238)
 
 ## Descripción
 
