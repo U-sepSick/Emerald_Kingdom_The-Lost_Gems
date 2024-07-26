@@ -14,12 +14,10 @@ Este es un proyecto de ejemplo para mostrar cómo crear un README.md con imágen
 ## Capturas de Pantalla
 
 ### Pantalla Principal
-
-![Pantalla Principal](.git_images\Emerald Kingdom_ The Lost Gems.png)
+![Emerald Kingdom_ The Lost Gems](https://github.com/user-attachments/assets/53f96d9f-80f9-4b8a-ac1a-052cef9848e0)
 
 ### Pantalla Secundaria
-
-![Pantalla Secundaria](.git_images\Emerald Kingdom_ The Lost Gems.png)
+![Emerald Kingdom_ The Lost Gems](https://github.com/user-attachments/assets/53f96d9f-80f9-4b8a-ac1a-052cef9848e0)
 
 ## Instalación
 
