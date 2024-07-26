@@ -1,5 +1,5 @@
 # Proyecto Ejemplo
-![Emerald Kingdom_ The Lost Gems](https://github.com/user-attachments/assets/4fe9e2eb-2cb1-443d-a2c3-59919a8ac238)
+![Emerald Kingdom_ The Lost Gems](https://github.com/user-attachments/assets/53f96d9f-80f9-4b8a-ac1a-052cef9848e0)
 
 ## Descripción
 
